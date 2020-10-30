@@ -1,2 +1,2 @@
-# spring-email-sender
-spring-boot-email-sender
+# Spring Boot Email Sender
+spring boot email sender
