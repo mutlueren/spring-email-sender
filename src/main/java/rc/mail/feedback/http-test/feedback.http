@@ -1,0 +1,10 @@
+##http test for mail sending
+
+POST http://localhost:8082/feedback
+Content-Type: application/json
+
+{
+  "name": "Mutlu",
+  "email": "mutlueren01@gmail.com",
+  "feedback": "I am Spring Boot , Hello Mutlu"
+}
